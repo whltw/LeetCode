@@ -1,5 +1,9 @@
 package tw.bear.leetcode;
-
+/**
+ * 
+ * @author whltw
+ *
+ */
 public class AAA {
 	int x =12;
 	public void me(int x) {
